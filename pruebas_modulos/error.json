@@ -1,0 +1,40 @@
+{
+  "Errores": [
+    {
+      "codigo": "OL",
+      "desc": "Sobrecarga (Overload): Indica una carga excesiva en el motor controlado."
+    },
+    {
+      "codigo": "UV",
+      "desc": "Undervoltage (Undervoltage): Indica tensión de entrada por debajo del nivel mínimo especificado."
+    },
+    {
+      "codigo": "OV",
+      "desc": "Sobretensión (Overvoltage): Tensión de entrada por encima del nivel máximo especificado."
+    },
+    {
+      "codigo": "OC",
+      "desc": "Sobrecorriente (Overcurrent): Indica entrega excesiva de corriente, potencialmente dañina."
+    },
+    {
+      "codigo": "OH",
+      "desc": "Sobrecalentamiento (Overheat): Temperatura interna del variador por encima del límite seguro."
+    },
+    {
+      "codigo": "CF",
+      "desc": "Fallo de Control (Control Failure): Problema en la electrónica de control del variador."
+    },
+    {
+      "codigo": "EF",
+      "desc": "Fallo Externo (External Fault): Indica un problema externo al variador, como cortocircuito en el motor."
+    },
+    {
+      "codigo": "GF",
+      "desc": "Fallo a Tierra (Ground Fault): Detección de fuga de corriente a tierra, riesgo eléctrico."
+    },
+    {
+      "codigo": "CF",
+      "desc": "Fallo de Comunicación (Communication Failure): Problemas de comunicación con sistemas externos."
+    }
+  ]
+}
