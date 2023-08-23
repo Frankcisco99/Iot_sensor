@@ -1,0 +1,32 @@
+{
+  "errores": [
+    {
+      "codigo": "001",
+      "desc": "Fallo en el sistema de alimentación de energía. Verifica la conexión eléctrica y la fuente de alimentación."
+    },
+    {
+      "codigo": "101",
+      "desc": "Error en el eje X. Puede deberse a un problema mecánico, como bloqueo o daño en el husillo o los rodamientos."
+    },
+    {
+      "codigo": "205",
+      "desc": "Error de sobrecarga en el motor del eje Z. Comprueba si hay obstrucciones o carga excesiva en el eje Z."
+    },
+    {
+      "codigo": "302",
+      "desc": "Problema de comunicación entre la unidad de control y el motor del eje Y. Revisa las conexiones y el cableado."
+    },
+    {
+      "codigo": "410",
+      "desc": "Error de calibración en el sensor de herramienta. Asegúrate de que el sensor esté correctamente configurado y calibrado."
+    },
+    {
+      "codigo": "505",
+      "desc": "Fallo en el sistema de refrigeración. Verifica el funcionamiento de la bomba y la circulación del refrigerante."
+    },
+    {
+      "codigo": "608",
+      "desc": "Error de límite de carrera en el eje C. Comprueba si hay obstrucciones o si el interruptor de límite necesita ajuste."
+    }
+  ]
+}
